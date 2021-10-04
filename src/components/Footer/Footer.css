@@ -1,0 +1,30 @@
+.footer{
+    color:#5bbc2e ;
+    margin-right: 15px;
+    
+}
+.allFooter{
+     color: white;
+    
+    padding: 30px;
+    
+}
+.backGround{
+    background-color: #222222;
+}
+.icon{
+    color: white;
+    
+}
+.footer-margin{
+    margin-top: 30px;
+}
+.icon-style{
+    margin: 30px;
+}
+.footer-top{
+    font-size: 25px;
+    text-decoration: underline #5bbc2e ;
+    font-weight: 600;
+    
+}

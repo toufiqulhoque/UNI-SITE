@@ -1,0 +1,22 @@
+.header{
+    text-decoration: none;
+    margin-right: 20px;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
+.header:hover{
+    color: #5bbc2e;
+}
+.logo{
+    
+    font-size: 55px;
+    font-weight: 700;
+    margin-right: 200px;
+    
+}
+.awesomelogo{
+    font-size: 20px;
+    margin-top: 8px;
+    color:#5bbc2e;;
+}

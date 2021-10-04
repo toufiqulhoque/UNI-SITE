@@ -1,3 +1,25 @@
+# Buy Courses
+
+You can buy any courses form this site.And study on your own.
+
+## Website links
+Click Site :[Live Site](https://study-toufiq.netlify.app/)
+![Click here](https://i.imgur.com/yn3AJ1b.png)
+
+## functionalities
+
+* Users can buy any courses .
+* User can study multiple courses. 
+* Users can see featured courses.
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

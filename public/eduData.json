@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "course_name": "Web Designer III",
+        "mentor": "Salaidh Leser",
+        "mentor_email": "sleser0@census.gov",
+        "schedule": "6/1/2021",
+        "image": "https://image.freepik.com/free-vector/education-background-with-funny-icons_1361-1263.jpg",
+        "course_description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Uni's most popular web development course.  This course was just completely overhauled to prepare students for the 2021 job market. "
+    },
+    {
+        "id": 2,
+        "course_name": "Internal Auditor",
+        "mentor": "Joe Vannoort",
+        "mentor_email": "jvannoort1@bloomberg.com",
+        "schedule": "5/30/2021",
+        "image": "https://image.freepik.com/free-vector/blackboard-back-school-background_23-2148578491.jpg",
+        "course_description": "This is the most complete JavaScript course on Uni. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications."
+    },
+    {
+        "id": 3,
+        "course_name": "Structural Analysis Engineer",
+        "mentor": "Orelee Mutch",
+        "mentor_email": "omutch2@chron.com",
+        "schedule": "9/2/2021",
+        "image": "https://image.freepik.com/free-vector/realistic-back-school-landing-page-template_52683-67602.jpg",
+        "course_description": "I'm Angela, I'm a developer with a passion for teaching. I'm the lead instructor at the London App Brewery, London's leading Programming Bootcamp. "
+    },
+    {
+        "id": 4,
+        "course_name": "Help Desk Technician",
+        "mentor": "Lenora Brach",
+        "mentor_email": "lbrach3@cisco.com",
+        "schedule": "8/18/2021",
+        "image": "https://image.freepik.com/free-vector/tuition-vector-landing-page-template-online-education-e-learning-website-homepage_94477-630.jpg",
+        "course_description": "Absolutely fantastic tutorial series. I cannot thank you enough. The quality is first class and your presentational skills are second to none. Keep up this excellent work."
+    },
+    {
+        "id": 5,
+        "course_name": "Safety Technician IV",
+        "mentor": "Annissa Ingliss",
+        "mentor_email": "aingliss4@shareasale.com",
+        "schedule": "4/23/2021",
+        "image": "https://image.freepik.com/free-photo/person-holding-light-bulb-with-graduation-cap_23-2148721299.jpg",
+        "course_description": "Designed for you—no matter where you are in your coding journey—my next-generation web developer course is overflowing with fresh content. Jam-packed with high-quality tutorials.  And crucially."
+    },
+    {
+        "id": 6,
+        "course_name": "Cost Accountant",
+        "mentor": "Jamison McAlindon",
+        "mentor_email": "jmcalindon5@columbia.edu",
+        "schedule": "5/8/2021",
+        "image": "https://image.freepik.com/free-vector/back-school-background_3589-802.jpg",
+        "course_description": "Congratulations!  You've found the most popular, most complete,Absolutely fantastic tutorial series. and most up-to-date resource online for learning React and Redux!"
+    },
+    {
+        "id": 7,
+        "course_name": "Senior Sales Associate",
+        "mentor": "Burch Pettifer",
+        "mentor_email": "bpettifer6@wsj.com",
+        "schedule": "2/15/2021",
+        "image": "https://image.freepik.com/free-vector/happy-teacher-s-day-banner-template_86693-247.jpg",
+        "course_description": "So, after finishing this course, you will know exactly how to build a beautiful, professional, and ready-to-launch website just like Omnifood, by following a 7-step process. And it will even tablet, and smartphone."
+    },
+    {
+        "id": 8,
+        "course_name": "VP Product Management",
+        "mentor": "Carolin Bragginton",
+        "mentor_email": "cbragginton7@irs.gov",
+        "schedule": "1/10/2021",
+        "image": "https://image.freepik.com/free-photo/learn-learning-knowledge-education-college-concept_53876-133560.jpg",
+        "course_description": "Absolutely fantastic tutorial series. I cannot thank you enough. The quality is first class and your presentational skills are second to none. Keep up this excellent work."
+    },
+    {
+        "id": 9,
+        "course_name": "Programmer I",
+        "mentor": "Ker Karpeev",
+        "mentor_email": "kkarpeev8@ted.com",
+        "schedule": "12/15/2020",
+        "image": "https://image.freepik.com/free-vector/learning-concept-illustration_114360-3896.jpg",
+        "course_description": "This is the tutorial you've been looking for to become a modern web developer in 2021. It doesn’t just cover a small portion of the industry. This covers everything  hired: from absolute zero knowledge to being able to put things on your resume that will allow you to live the life you want. "
+    },
+    {
+        "id": 10,
+        "course_name": "Chief Design Engineer",
+        "mentor": "Nobie Dunsmuir",
+        "mentor_email": "ndunsmuir9@mail.ru",
+        "schedule": "10/14/2020",
+        "image": "https://image.freepik.com/free-psd/mock-up-young-female-holding-book_23-2148316911.jpg",
+        "course_description": "This bestselling course teaches the latest version of Vue (Vue.js 3) from the ground up and in great detail. We'll cover all the core basics but we'll not stop thereafter - this course also dives into advanced concepts like the Composition API introduced with Vue 3."
+    }
+]
