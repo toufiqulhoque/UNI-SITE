@@ -22,8 +22,8 @@ const Home = () => {
             </div>
 
             <div className='container-fluid'>
-                <h2 className='text-center my-4'>Trending Courses</h2>
-                <Row xs={1} md={4} className="g-3">
+                <h2 className='text-center my-5'>Trending Courses</h2>
+                <Row xs={1} md={4} className="g-3 m-1">
                     {Array.from({ length: 1 }).map((_, idx) => (
                         studies.slice(0, 4).map(study => <Trending
                             key={study.id}
