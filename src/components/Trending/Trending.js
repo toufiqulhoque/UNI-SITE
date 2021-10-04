@@ -16,7 +16,7 @@ const Trending = (props) => {
                             <small className='text-muted'>Starts from:</small> {schedule}  <br />
                             <small className='text-muted'>Mentor Email:</small> {mentor_email}  <br />
                         </p>
-                        <p>{course_description}</p> <br />
+                        <p>{course_description.substring(0, 150)}</p> <br />
                         <button className='my-button btn-dark mt-3 p-3 container'>Click to enroll</button>
                     </Card.Text>
                 </Card.Body>

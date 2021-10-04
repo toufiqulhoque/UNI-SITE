@@ -1,9 +1,6 @@
-p{
-    font-size: 10px
-}
 .img1{
     height: 250px;
-}
+};
 .btn-dark:hover{
     background-color: #5bbc2e;
 }

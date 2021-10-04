@@ -15,7 +15,7 @@ const Feature = (props) => {
                 <Card.Text className='p-5 m-5'>
                     <Card.Title className="mt-5">{course_name}</Card.Title>
                     <small className='text-muted my-4'>By:</small> {mentor}  <br />
-                    {course_description}  most complete,Absolutely fantastic tutorial series. and most up-to-date resource online for learning React and Redux!! <br />
+                    {course_description} <br />
                     <button className='my-button btn-dark mt-3 p-1'>Read More</button>
                 </Card.Text>
 
